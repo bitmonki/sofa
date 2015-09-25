@@ -1,3 +1,5 @@
+#### A version that works may be found at branch 'bitrot-fixed'
+
 # Sofa: Standalone CouchDB Blog
 
 Sofa showcases the [potential of pure CouchDB applications](http://jchris.mfdz.com/code/2008/10/standalone_applications_with_co). It should provide an easy way for people to put thier thoughts online, anywhere there's a running Couch. It's just HTML, JavaScript and the magic of CouchDB.
